@@ -3,6 +3,7 @@ from data import *
 import sys
 import torch
 
+# testing a file edit
 rnn = torch.load('char-rnn-classification 1524468107708 filtered wiki.pt')
 
 # Just return an output given a line
